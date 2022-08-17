@@ -1,0 +1,9 @@
+body {
+  background-color: #f7cac9;
+}
+
+.firstDiv, .secondDiv, .thirdDiv {
+  border: 7px outset gold;
+  background-color: lightblue;
+  text-align: center;
+}
