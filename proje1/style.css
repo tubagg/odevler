@@ -1,9 +1,31 @@
-body {
-  background-color: #f7cac9;
+body
+{
+  background-color: rgb(85, 73, 73);
 }
-
-.firstDiv, .secondDiv, .thirdDiv {
-  border: 7px outset gold;
-  background-color: lightblue;
+#menu 
+{
+  background-color: #f7cac9;
+  margin: auto;
+  text-align:center
+}
+#head
+{
+  background-color: rgb(150, 110, 187);
+  margin: auto;
+  padding-top:10px;
+  text-align: center;
+}
+#alan1
+{
+  background-color: rgb(89, 89, 110);
+  margin: auto;
+  padding-top: 10px;
+  text-align: center;
+}
+#footer
+{
+  background-color: rgb(192, 101, 128);
+  margin: auto;
+  padding-top: 10px;
   text-align: center;
 }
