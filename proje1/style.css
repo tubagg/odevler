@@ -6,20 +6,36 @@ body
 {
   background-color: #f7cac9;
   margin: auto;
+  margin-bottom: 10px;
   text-align:center
+}
+#araalan1
+{
+  background-color:#faeeed;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 10px;
 }
 #head
 {
   background-color: rgb(150, 110, 187);
   margin: auto;
-  padding-top:10px;
+  margin-bottom: 10px;
   text-align: center;
+}
+#araalan2
+{
+  background-color: beige;
+  margin: auto;
+  margin-bottom: 10px;
+  text-align: center;
+
 }
 #alan1
 {
   background-color: rgb(89, 89, 110);
   margin: auto;
-  padding-top: 10px;
+  margin-bottom: 10px;
   text-align: center;
 }
 #footer
