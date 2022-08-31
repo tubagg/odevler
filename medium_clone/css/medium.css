@@ -10,3 +10,7 @@ body
 {
     border-bottom:1px solid #222;
 }
+.aside-buttons >li
+{
+margin-bottom: 10px;
+}
